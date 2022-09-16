@@ -360,7 +360,8 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  /* background: rgba(0, 0, 0, 0.9); */
+  background: #37474f;
   padding: 30px;
 }
 
